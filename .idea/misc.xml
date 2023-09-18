@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="$PROJECT_DIR$/venv/bin/black" />
+    <option name="sdkUUID" value="7e3bd3da-0870-43b2-a324-8c4e0333cad5" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (food-production)" project-jdk-type="Python SDK" />
 </project>
